@@ -17,4 +17,4 @@ I compare the performance of the classifiers (k-nearest neighbors, logistic regr
 
 1) “Practical_Application_III_TB_1_Intro_and_EDA_Final.ipynb”
 2) Practical Application III-TB-1-FeatureEngr-Modelling-Classification-Final.ipynb
-3) A pdf document with a summry of the classification models
+3) A pdf document with a summary of the classification models
